@@ -1,0 +1,15 @@
+@import '../var.css';
+
+.categorySection {
+  display: flex;
+  flex-direction: column;
+  margin-top: 1rem;
+}
+.category_title {
+  border-radius: 20px;
+  border: 1px solid var(--dark);
+  color: var(--dark);
+  padding: 0.5rem 1rem;
+  line-height: 1rem;
+  text-transform: uppercase;
+}

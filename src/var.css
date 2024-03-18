@@ -1,0 +1,15 @@
+:root {
+  /* colours */
+  --light: #f9edcc;
+  --medium: #c8b8db;
+  --dark: #2f2f2f;
+  --extra1: #fe7f2d;
+  --extra2: #4f772d;
+
+  --light-rgb: 249, 237, 204;
+  --medium-rgb: 200, 184, 219;
+  --dark-rgb: 47, 47, 47;
+  --extra1-rgb: 254, 127, 45;
+  --extra2-rgb: 79, 119, 45;
+  /* colours */
+}
